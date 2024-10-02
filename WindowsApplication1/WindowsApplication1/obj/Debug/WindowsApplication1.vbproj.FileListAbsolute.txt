@@ -1,0 +1,22 @@
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\pc3\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\PROGRAMAS\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
